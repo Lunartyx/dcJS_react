@@ -1,0 +1,2 @@
+dark color is #282c34
+light color is #61dafb
